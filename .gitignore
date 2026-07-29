@@ -1,0 +1,4 @@
+vault.dat
+master.hash
+__pycache__/
+*.pyc
